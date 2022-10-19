@@ -15,7 +15,7 @@ const HeroBanner = ({heroBanner}) => {
                     <button type="button"> {heroBanner.buttonText}</button>
                 </Link>
                 <div className='desc'>
-                <h5>#Ranch5Ever</h5>
+                <h5>HD audio</h5>
                 <p>{heroBanner.desc}</p>
                 </div>
             </div>
